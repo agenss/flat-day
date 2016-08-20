@@ -10,7 +10,7 @@
     <![endif]-->
   </head>
   <body>
-      <h1>агонь!</h1>
+      <h1><?php echo "hello!"?></h1>
     
   </body>
 </html>
